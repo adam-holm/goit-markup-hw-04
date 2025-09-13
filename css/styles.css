@@ -423,12 +423,13 @@ body {
 .footer .container {
   display: flex;
   align-items: baseline;
-  gap: 120px;
+
   flex-wrap: wrap; /* щоб блоки переносилися на маленьких екранах */
 }
 
 .footer-logo-wrapper {
   max-width: 264px;
+  margin-right: 120px;
 }
 
 .footer-logo {
@@ -439,7 +440,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  color: #4d5ae5;
+  background-color: #4d5ae5;
+  color: #f4f4fd;
   margin-bottom: 16px;
   display: inline-block;
 }

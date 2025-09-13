@@ -59,7 +59,7 @@ body {
 }
 .header-menu-link.current {
   position: relative;
-  /color: #404bbf;
+  color: #404bbf;
 }
 .header-menu-link.current::after {
   content: "";
@@ -167,7 +167,7 @@ body {
 }
 .features-icon-wrapper {
   display: flex;
-  /justify-content: center;
+  justify-content: center;
   align-items: center;
   height: 112px;
   background-color: #f4f4fd;
@@ -357,7 +357,7 @@ body {
   transform: translateY(100%);
   opacity: 0;
   padding: 40px 32px;
-  /font-size: 16px;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;

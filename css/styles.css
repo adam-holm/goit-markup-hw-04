@@ -213,7 +213,7 @@ body {
   background: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
-  max-width: 1440px;
+
   margin: 0 auto;
 }
 .team-title {
@@ -431,8 +431,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  background-color: #4d5ae5;
-  color: #f4f4fd;
+
+  color: #4d5ae5;
   margin-bottom: 16px;
   display: inline-block;
 }
@@ -447,7 +447,6 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-top: 8px;
 }
 
 .footer-social-wrapper {
